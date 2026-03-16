@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Muhammad Usman 👋
 
-<!--
-**usmanfv/usmanfv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Web Developer based in Pakistan.
 
-Here are some ideas to get you started:
+I specialize in building modern, responsive, and high-performance web applications using modern web technologies. I focus on clean UI, accessibility, and performance to create great user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+**Frontend**
+- HTML5
+- CSS3 / SCSS
+- JavaScript (ES2023+)
+- React
+- Next.js
+- TypeScript
+
+**Backend & Tools**
+- Node.js
+- Express
+- REST API Design
+- PostgreSQL
+- MongoDB
+- Git & CI/CD
+- Docker
+
+---
+
+## 🌍 About Me
+
+- Frontend developer passionate about building modern web apps
+- Focused on performance, accessibility, and clean code
+- Always learning new technologies and improving my skills
