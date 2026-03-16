@@ -32,3 +32,11 @@ I specialize in building modern, responsive, and high-performance web applicatio
 - Frontend developer passionate about building modern web apps
 - Focused on performance, accessibility, and clean code
 - Always learning new technologies and improving my skills
+
+- ---
+
+## 📫 Connect With Me
+
+- 📍 Rawalpindi, Pakistan
+- 📧 Email: usmanraheel16@gmail.com  
+- 📱 Phone: +92 332 5358617
